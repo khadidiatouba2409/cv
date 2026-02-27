@@ -32,7 +32,7 @@ with st.sidebar:
 
  
 
-
+st.header("PORTFOLIO")
 st.header("KHADIDIATOU BA")
 st.header("Technicienne Supérieure en Géomatique")
 
