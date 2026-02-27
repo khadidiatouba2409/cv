@@ -5,7 +5,7 @@ import streamlit as st
 
 
 with st.sidebar:
-    st.markdown("PORTFOLIO")
+    st.write("PORTFOLIO")
     st.markdown(" 📞 CONTACTS")
     st.write("📧Email : khadidiatouba2409@gmail.com")
     st.write("📍Adresse : Mermoz / Sacré-Cœur 1")
