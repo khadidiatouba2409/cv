@@ -36,7 +36,7 @@ st.header("PORTFOLIO")
 st.header("KHADIDIATOU BA")
 st.header("Technicienne Supérieure en Géomatique")
 
-st.subheader("👤À propos de moi")
+st.subheader("👩‍🦰À propos de moi")
 st.write("""
 Passionnée par la géomatique, je m’intéresse particulièrement à l’analyse des données géospatiales et à l’exploitation des systèmes d’information géographique pour appuyer la prise de décision dans les projets territoriaux.
 """)
