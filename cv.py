@@ -5,7 +5,7 @@ import streamlit as st
 
 
 with st.sidebar:
-    st.subheader("PORTFOLIO")
+    
     st.markdown(" 📞 CONTACTS")
     st.write("📧Email : khadidiatouba2409@gmail.com")
     st.write("📍Adresse : Mermoz / Sacré-Cœur 1")
@@ -45,12 +45,22 @@ Passionnée par la géomatique, je m’intéresse particulièrement à l’analy
 st.subheader("💼 Expérience professionnelle")
 st.markdown("""
 Stage : Direction de la Gestion et  de la Planification  des Ressources en Eau (DEGPRE) durant 1 mois  
- - Participation au traitement et à l’analyse des données liées aux ressources en eau  
- - Contribution à l’organisation des données géospatiales  
+➜ Participer au traitement des données relatives aux ressources en eau
+
+➜Contribuer à l’organisation et au classement des données géospatiales
+
+➜Appuyer la mise à jour des bases de données
+
+➜Utiliser les outils SIG dans le cadre des activités de la structure
 """)
 
 st.subheader("🖥Compétences Techniques")
 st.markdown("""
+
+-Effectuer des levés topographiques précis
+
+-Contrôler et vérifier la qualité des données collectées
+
 -Numériser et structurer des données géographiques
 
 -Géoréférencer des cartes et des images satellites
@@ -61,6 +71,7 @@ st.markdown("""
 
 
 -Exploiter les outils SIG pour l’aide à la décision
+
 -Concevoir et organiser des bases de données spatiales 
 """)
     
